@@ -1,0 +1,9 @@
+{
+  "LatticeParameter": 3.56,
+  "CrystalStructure": "L12",
+  "Composition": "Ni3Al",
+  "Energy": 20.0,
+  "DetectorDistance": 15.0,
+  "OrderParameter": 1.0,
+  "OutputFile": "Ni3Al_Ordered.h5"
+}
