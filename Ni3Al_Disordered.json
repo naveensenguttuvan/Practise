@@ -1,0 +1,9 @@
+{
+  "LatticeParameter": 3.56,
+  "CrystalStructure": "FCC",
+  "Composition": "Ni3Al",
+  "Energy": 20.0,
+  "DetectorDistance": 15.0,
+  "OrderParameter": 0.0,
+  "OutputFile": "Ni3Al_Disordered.h5"
+}
